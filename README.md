@@ -43,6 +43,7 @@ Each sponsor will post their **specific task and bounty** in the `/tasks/` folde
    - Add your project folder under `/submissions/your-project-name/`.
    - Submit a **Pull Request** before the hackathon deadline.
    - Include a `README.md` in your folder describing your idea, tech stack, and demo.
+   - **All submissions must be open source licensed** (MIT, Apache 2.0, or similar). Unless the sponsor requires otherwiese. Include a `LICENSE` file in your submission folder.
 
 4. **Conduct**
 
