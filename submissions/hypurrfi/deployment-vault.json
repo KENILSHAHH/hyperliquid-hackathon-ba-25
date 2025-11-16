@@ -1,0 +1,9 @@
+{
+  "vaultAddress": "0x774C97d7004b3A78C1f7993D37dC1d6cfb3bB7F2",
+  "usdcAddress": "0xb88339CB7199b77E23DB6E890353E22632Ba630f",
+  "usdhAddress": "0x111111a1a0667d36bD57c0A9f569b98057111111",
+  "poolAddress": "0xceCcE0EB9DD2Ef7996e01e25DD70e461F918A14b",
+  "deployer": "0x4CbEe7aD42d33e9D3B41e8b6FAcA2f6f173C8A94",
+  "timestamp": "2025-11-16T17:50:05.060Z",
+  "network": "hyperevm"
+}

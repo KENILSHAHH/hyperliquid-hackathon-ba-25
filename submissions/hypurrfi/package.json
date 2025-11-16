@@ -1,0 +1,30 @@
+{
+  "name": "hypurrfi",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "deploy:testnet": "hardhat run scripts/deploy.js --network hyperevm_testnet",
+    "deploy:mainnet": "hardhat run scripts/deploy.js --network hyperevm",
+    "deploy:vault": "hardhat run scripts/deployVault.js --network hyperevm",
+    "deploy:vault:testnet": "hardhat run scripts/deployVault.js --network hyperevm_testnet",
+    "interact:vault": "hardhat run scripts/interactVault.js --network hyperevm",
+    "deposit": "hardhat run scripts/simpleDeposit.js --network hyperevm",
+    "leverage": "node final.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.3",
+    "ethers": "^6.15.0"
+  }
+}
