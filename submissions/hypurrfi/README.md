@@ -1,5 +1,5 @@
 # HypurrYield - One-Click Leverage Looping for Maximum Stablecoin Yield
-
+Demo Vide0 - https://www.loom.com/share/153cd18c287349cdaf9100f7f123424b
 > **Automate leverage loops on HypurrFi with intelligent yield optimization powered by GlueX and Lava Network**
 
 HypurrYield is a smart contract vault that enables users to maximize yield on stablecoins through automated leverage looping with just a single click. By combining HypurrFi's lending markets, GlueX's yield optimization APIs, and Lava Network's high-performance RPC infrastructure, users can achieve amplified returns without managing complex multi-step transactions.
